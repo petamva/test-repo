@@ -11,7 +11,4 @@ python app.py
 
 This is my first take on REST APIs
 
-##Enjoy!
-
-
-
+## Enjoy!
